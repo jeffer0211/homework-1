@@ -1,0 +1,11 @@
+c:\Users\jeffe\Swimming\bin\Debug\netcoreapp2.1\Swimming.deps.json
+c:\Users\jeffe\Swimming\bin\Debug\netcoreapp2.1\Swimming.runtimeconfig.json
+c:\Users\jeffe\Swimming\bin\Debug\netcoreapp2.1\Swimming.runtimeconfig.dev.json
+c:\Users\jeffe\Swimming\bin\Debug\netcoreapp2.1\Swimming.dll
+c:\Users\jeffe\Swimming\bin\Debug\netcoreapp2.1\Swimming.pdb
+c:\Users\jeffe\Swimming\obj\Debug\netcoreapp2.1\Swimming.csprojAssemblyReference.cache
+c:\Users\jeffe\Swimming\obj\Debug\netcoreapp2.1\Swimming.csproj.CoreCompileInputs.cache
+c:\Users\jeffe\Swimming\obj\Debug\netcoreapp2.1\Swimming.AssemblyInfoInputs.cache
+c:\Users\jeffe\Swimming\obj\Debug\netcoreapp2.1\Swimming.AssemblyInfo.cs
+c:\Users\jeffe\Swimming\obj\Debug\netcoreapp2.1\Swimming.dll
+c:\Users\jeffe\Swimming\obj\Debug\netcoreapp2.1\Swimming.pdb
